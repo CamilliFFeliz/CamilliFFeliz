@@ -7,7 +7,7 @@
 <table width="100%">
   <tr>
     <td width="65%">
-      <h3>💜 Sobre Mim</h3>
+      <h3><samp color="#B197FC">💜 Sobre Mim</samp></h3>
       <p>
         Sou uma <strong>Desenvolvedora Full Stack</strong> apaixonada por construir aplicações completas, do back ao front-end! 💻 Adoro criar soluções que sejam não apenas funcionais, mas também intuitivas e agradáveis de usar.
         <br><br>
@@ -22,7 +22,7 @@
 
 ---
 
-### ✨ Tecnologias que eu amo usar
+### <h3><samp color="#B197FC">✨ Tecnologias que eu amo usar</samp></h3>
 
 <p align="center">
   Como desenvolvedora Full Stack, transito entre diferentes camadas da aplicação. <br>Estas são algumas das minhas ferramentas favoritas:
@@ -32,10 +32,10 @@
   <strong>Backend</strong><br>
   <a href="#">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/C-000000?style=plastic&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/C-58189E?style=plastic&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/CSharp-512BD4?style=plastic&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/Java-000000?style=plastic&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Python-58189E?style=plastic&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Java-58189E?style=plastic&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Python-512BD4?style=plastic&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white" alt="Kotlin"/>
   </a>
 </p>
@@ -43,9 +43,9 @@
 <p align="center">
   <strong>Frontend</strong><br>
   <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=javascript&logoColor=white" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/HTML5-000000?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-000000?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-58189E?style=plastic&logo=javascript&logoColor=white" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-512BD4?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-58189E?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>
   </a>
 </p>
 
@@ -54,13 +54,13 @@
   <a href="#">
     <img src="https://img.shields.io/badge/MySQL-58189E?style=plastic&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/Docker-512BD4?style=plastic&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Git-000000?style=plastic&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Git-58189E?style=plastic&logo=git&logoColor=white" alt="Git"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Minha Jornada no GitHub
+### <h3><samp color="#B197FC">🚀 Minha Jornada no GitHub</samp></h3>
 
 <p align="center">
   <a href="https://github.com/CamilliFFeliz">
@@ -71,7 +71,7 @@
 
 ---
 
-### 💬 Vamos conversar?
+### <h3><samp color="#B197FC">💬 Vamos conversar?</samp></h3>
 
 <p align="center">
   Adoraria me conectar com você! Me encontre por aqui:
@@ -80,6 +80,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-58189E?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:camillifrigeri@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-512BD4?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
