@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B197FC&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Camilli!+%E2%9C%A8;Bem-vindo(a)+ao+meu+cantinho+criativo!;Um+lugar+onde+c%C3%B3digo+vira+magia!+%F0%9F%92%9C" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B197FC&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Camilli!+%E2%9C%A8;Desenvolvedora+Full+Stack+%F0%9F%92%BB;Bem-vindo(a)+ao+meu+cantinho+criativo!" alt="Typing SVG">
   </a>
 </p>
 
 ### 💜 Sobre Mim
 
 <p>
-  Desde que descobri a magia de transformar linhas de código em algo real, me apaixonei pelo desenvolvimento de software! 💻 Adoro criar soluções que sejam não apenas funcionais, mas também intuitivas e agradáveis de usar.
+  Sou uma <strong>Desenvolvedora Full Stack</strong> apaixonada por construir aplicações completas, do back ao front-end! 💻 Adoro criar soluções que sejam não apenas funcionais, mas também intuitivas e agradáveis de usar.
   <br><br>
   Sou uma pessoa curiosa e estou sempre em busca de aprender algo novo para expandir meu universo de possibilidades. Acredito que a colaboração e a troca de ideias são as melhores formas de crescer! 🌱
 </p>
@@ -21,7 +21,7 @@
 ### ✨ Tecnologias que eu amo usar
 
 <p align="center">
-  Estas são algumas das ferramentas que uso para dar vida às minhas ideias:
+  Como desenvolvedora Full Stack, transito entre diferentes camadas da aplicação. <br>Estas são algumas das minhas ferramentas favoritas:
 </p>
 
 <p align="center">
