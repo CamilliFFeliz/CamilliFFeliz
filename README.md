@@ -9,18 +9,18 @@
     <td width="65%">
       <h3><samp color="#B197FC">💜 Sobre Mim</samp></h3>
       <p>
-        Sou uma <strong>Desenvolvedora Full Stack</strong> apaixonada por construir aplicações completas, do back ao front-end! 💻 Adoro criar soluções que sejam não apenas funcionais, mas também intuitivas e agradáveis de usar.
+        Sou uma <samp color="#B197FC"><strong>Desenvolvedora Full Stack</strong></samp> apaixonada por construir aplicações completas, do back ao front-end! 💻 Adoro criar soluções que sejam não apenas funcionais, mas também intuitivas e agradáveis de usar.
         <br><br>
         Sou uma pessoa curiosa e estou sempre em busca de aprender algo novo para expandir meu universo de possibilidades. Acredito que a colaboração e a troca de ideias são as melhores formas de crescer! 🌱
       </p>
     </td>
     <td width="35%" align="center">
-      <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms3eW84ZXBqbXl3Y3g4NmwzOHdsNm44ZGpqNzBwaDE2OWM1cmdqaCZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/dKBES1ypGwZdyFQBQ7/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdjMGk0anlkcHZscjh4M214b3p4OGxya2MydHowbjZpdndscnRiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif)" alt="Pixel art de uma pessoa programando em um quarto roxo" width="280px"/>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdjMGk0anlkcHZscjh4M214b3p4OGxya2MydHowbjZpdndscnRiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif" alt="Pixel art de uma pessoa programando em um quarto roxo" width="280px"/>
     </td>
   </tr>
 </table>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines/purple.gif" width="100%"></p>
 
 ### <h3><samp color="#B197FC">✨ Tecnologias que eu amo usar</samp></h3>
 
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <strong>Backend</strong><br>
+  <samp color="#B197FC"><strong>Backend</strong></samp><br>
   <a href="#">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP"/>
     <img src="https://img.shields.io/badge/C-58189E?style=plastic&logo=c&logoColor=white" alt="C"/>
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <strong>Frontend</strong><br>
+  <samp color="#B197FC"><strong>Frontend</strong></samp><br>
   <a href="#">
     <img src="https://img.shields.io/badge/JavaScript-58189E?style=plastic&logo=javascript&logoColor=white" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/HTML5-512BD4?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <strong>Banco de Dados & DevOps</strong><br>
+  <samp color="#B197FC"><strong>Banco de Dados & DevOps</strong></samp><br>
   <a href="#">
     <img src="https://img.shields.io/badge/MySQL-58189E?style=plastic&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/Docker-512BD4?style=plastic&logo=docker&logoColor=white" alt="Docker"/>
@@ -58,7 +58,7 @@
   </a>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines/purple.gif" width="100%"></p>
 
 ### <h3><samp color="#B197FC">🚀 Minha Jornada no GitHub</samp></h3>
 
@@ -69,7 +69,7 @@
   </a>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines/purple.gif" width="100%"></p>
 
 ### <h3><samp color="#B197FC">💬 Vamos conversar?</samp></h3>
 
