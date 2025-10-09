@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B197FC&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Camilli!+%E2%9C%A8;Desenvolvedora+Full+Stack+%F0%9F%92%BB;Bem-vindo(a)+ao+meu+cantinho+criativo!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B197FC&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Camilli!+%E2%9C%A8;Desenvolvedora+Full+Stack+%F0%9F%92%BB;%20Bem-vindo(a)+ao+meu+cantinho+criativo!" alt="Typing SVG">
   </a>
 </p>
 
@@ -15,7 +15,7 @@
       </p>
     </td>
     <td width="35%" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdjMGk0anlkcHZscjh4M214b3p4OGxya2MydHowbjZpdndscnRiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif" alt="Pixel art de uma pessoa programando em um quarto roxo" width="280px"/>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms3eW84ZXBqbXl3Y3g4NmwzOHdsNm44ZGpqNzBwaDE2OWM1cmdqaCZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/dKBES1ypGwZdyFQBQ7/giphy.gif" alt="Pixel art de uma pessoa programando em um quarto roxo" width="280px"/>
     </td>
   </tr>
 </table>
