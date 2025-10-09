@@ -15,7 +15,7 @@
       </p>
     </td>
     <td width="35%" align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms3eW84ZXBqbXl3Y3g4NmwzOHdsNm44ZGpqNzBwaDE2OWM1cmdqaCZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/dKBES1ypGwZdyFQBQ7/giphy.gif" alt="Pixel art de uma pessoa programando em um quarto roxo" width="280px"/>
+      <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms3eW84ZXBqbXl3Y3g4NmwzOHdsNm44ZGpqNzBwaDE2OWM1cmdqaCZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/dKBES1ypGwZdyFQBQ7/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdjMGk0anlkcHZscjh4M214b3p4OGxya2MydHowbjZpdndscnRiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif)" alt="Pixel art de uma pessoa programando em um quarto roxo" width="280px"/>
     </td>
   </tr>
 </table>
