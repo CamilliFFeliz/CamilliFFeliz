@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,35:2D0B59,70:58189E,100:B197FC&text=Camilli%20Frigeri&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineering%20Student%20%E2%80%A2%20Purple%20Dev%20Universe&descAlignY=58&descSize=16&animation=fadeIn"
@@ -295,4 +294,3 @@ Tenho interesse em desenvolvimento web, automações, banco de dados, integraç�
     alt="Footer roxo"
   />
 </p>
-```
