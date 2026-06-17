@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,35:2D0B59,70:58189E,100:B197FC&text=Camilli%20Frigeri&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineering%20Student%20%E2%80%A2%20Purple%20Dev%20Universe&descAlignY=58&descSize=16&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,30:2D0B59,65:58189E,100:B197FC&text=Camilli%20Frigeri&fontColor=FFFFFF&fontSize=50&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineering%20Student%20%E2%80%A2%20Purple%20Dev%20Universe&descAlignY=58&descSize=16&animation=fadeIn"
     width="100%"
     alt="Banner Camilli Frigeri"
   />
@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=B197FC&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+eu+sou+a+Camilli+%E2%9C%A8;Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Estagi%C3%A1ria+na+%C3%A1rea+de+tecnologia+%F0%9F%9A%80;Engenharia+de+Software+%2B+ADS+%F0%9F%93%9A;Criando+sistemas+bonitos%2C+funcionais+e+com+prop%C3%B3sito"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=B197FC&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+eu+sou+a+Camilli+%E2%9C%A8;Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Estagi%C3%A1ria+na+%C3%A1rea+de+tecnologia+%F0%9F%9A%80;Cursando+Engenharia+de+Software+%F0%9F%93%9A;%C3%9Altimo+semestre+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Criando+sistemas+bonitos%2C+funcionais+e+com+prop%C3%B3sito"
       alt="Typing SVG"
     />
   </a>
@@ -28,15 +28,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CamilliFFeliz&label=Visitantes%20do%20perfil&color=7F52FF&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Status-Estagi%C3%A1ria%20em%20Tecnologia-58189E?style=flat-square" alt="Status"/>
+  <img src="https://komarev.com/ghpvc/?username=CamilliFFeliz&label=Visitantes%20do%20perfil&color=7F52FF&style=flat-square" alt="Visitantes do perfil"/>
+  <img src="https://img.shields.io/badge/Status-Estagi%C3%A1ria%20em%20Tecnologia-58189E?style=flat-square" alt="Estagiária"/>
+  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-Cursando-7F52FF?style=flat-square" alt="Engenharia de Software"/>
   <img src="https://img.shields.io/badge/ADS-%C3%9Altimo%20Semestre-B197FC?style=flat-square" alt="ADS"/>
-  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-Em%20andamento-7F52FF?style=flat-square" alt="Engenharia de Software"/>
 </p>
 
 <br>
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="58%" valign="top">
 
@@ -56,11 +56,12 @@ Tenho interesse em desenvolvimento web, automações, banco de dados, integraç�
 <img src="https://img.shields.io/badge/UI%2FUX-B197FC?style=for-the-badge" />
 
 </td>
+
 <td width="42%" align="center" valign="middle">
 
 <img 
   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdjMGk0anlkcHZscjh4M214b3p4OGxya2MydHowbjZpdndscnRiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif"
-  width="310px"
+  width="320px"
   alt="Gengar purple gif"
 />
 
@@ -68,7 +69,7 @@ Tenho interesse em desenvolvimento web, automações, banco de dados, integraç�
 
 <img src="https://img.shields.io/badge/Purple%20Dev%20Energy-7F52FF?style=for-the-badge" />
 <br>
-<sub><strong>código, café e um toque roxo no caos</strong></sub>
+<sub><strong>código, criatividade e um toque fantasma roxo</strong></sub>
 
 </td>
   </tr>
@@ -77,7 +78,7 @@ Tenho interesse em desenvolvimento web, automações, banco de dados, integraç�
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2D0B59,40:58189E,70:7F52FF,100:B197FC" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2D0B59,35:58189E,70:7F52FF,100:B197FC" width="100%" />
 </p>
 
 <h2 align="center">🌌 Meu universo dev</h2>
@@ -86,46 +87,168 @@ Tenho interesse em desenvolvimento web, automações, banco de dados, integraç�
   Um pouco das áreas que fazem parte da minha jornada como desenvolvedora.
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="190">
+      <img src="https://img.shields.io/badge/Front--end-58189E?style=for-the-badge" />
+      <br>
+      <sub>Interfaces bonitas, claras e funcionais</sub>
+    </td>
+    <td align="center" width="190">
+      <img src="https://img.shields.io/badge/Back--end-2D0B59?style=for-the-badge" />
+      <br>
+      <sub>Regras de negócio, APIs e estrutura</sub>
+    </td>
+    <td align="center" width="190">
+      <img src="https://img.shields.io/badge/Banco%20de%20Dados-7F52FF?style=for-the-badge" />
+      <br>
+      <sub>Modelagem, consultas e organização</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="190">
+      <img src="https://img.shields.io/badge/Automa%C3%A7%C3%B5es-B197FC?style=for-the-badge" />
+      <br>
+      <sub>Fluxos, processos e produtividade</sub>
+    </td>
+    <td align="center" width="190">
+      <img src="https://img.shields.io/badge/UI%2FUX-58189E?style=for-the-badge" />
+      <br>
+      <sub>Experiências mais intuitivas</sub>
+    </td>
+    <td align="center" width="190">
+      <img src="https://img.shields.io/badge/Aprendizado-2D0B59?style=for-the-badge" />
+      <br>
+      <sub>Evolução constante na área tech</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2D0B59,35:58189E,70:7F52FF,100:B197FC" width="100%" />
+</p>
+
+<h2 align="center">✨ Tecnologias & Ferramentas</h2>
+
+<p align="center">
+  Algumas tecnologias que estudo, uso em projetos e fazem parte da minha rotina como desenvolvedora.
+</p>
+
 <table align="center" width="100%">
   <tr>
     <td bgcolor="#130A24" align="center">
 
 <br>
 
-<h2 align="center">✨ Tecnologias & Ferramentas</h2>
+<img 
+  src="https://capsule-render.vercel.app/api?type=transparent&height=85&text=Purple%20Tech%20Stack&fontColor=B197FC&fontSize=34&fontAlignY=50&desc=minha%20caixa%20de%20ferramentas%20dev&descSize=14&descAlignY=75"
+  width="100%"
+  alt="Purple Tech Stack"
+/>
 
-<p align="center">
-  Clique nas categorias para ver minha stack organizada por área.
-</p>
+<table align="center" width="95%">
+  <tr>
+    <td bgcolor="#1B0F33" align="center" width="33%" valign="top">
+
+<br>
+
+<h3>💻 Back-end</h3>
+
+<img src="https://skillicons.dev/icons?i=php,java,python,c,cs,kotlin&theme=dark" alt="Backend skills"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PHP-58189E?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-7F52FF?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-B197FC?style=flat-square&logo=python&logoColor=white" />
+
+<br><br>
+
+<sub>lógica, regras de negócio, APIs e estrutura de sistemas</sub>
+
+<br><br>
+
+</td>
+
+<td bgcolor="#21113F" align="center" width="33%" valign="top">
+
+<br>
+
+<h3>🎨 Front-end</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend skills"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-58189E?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-7F52FF?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-B197FC?style=flat-square&logo=javascript&logoColor=white" />
+
+<br><br>
+
+<sub>interfaces, experiência visual, responsividade e interação</sub>
+
+<br><br>
+
+</td>
+
+<td bgcolor="#1B0F33" align="center" width="33%" valign="top">
+
+<br>
+
+<h3>🗄️ Ferramentas</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode&theme=dark" alt="Tools skills"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MySQL-58189E?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-7F52FF?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-B197FC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+
+<br><br>
+
+<sub>banco de dados, versionamento, ambiente e produtividade</sub>
+
+<br><br>
+
+</td>
+  </tr>
+</table>
+
+<br>
 
 <details open>
-  <summary><strong>💻 Back-end</strong></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,java,python,c,cs,kotlin&theme=dark" alt="Backend skills"/>
-    <br><br>
-    <sub>PHP • Java • Python • C • C# • Kotlin</sub>
-  </p>
-</details>
+  <summary><strong>🔮 Ver stack organizada por área</strong></summary>
 
-<details open>
-  <summary><strong>🎨 Front-end</strong></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend skills"/>
-    <br><br>
-    <sub>HTML • CSS • JavaScript</sub>
-  </p>
-</details>
+<br>
 
-<details open>
-  <summary><strong>🗄️ Banco de Dados & Ferramentas</strong></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode&theme=dark" alt="Tools skills"/>
-    <br><br>
-    <sub>MySQL • Docker • Git • GitHub • VS Code</sub>
-  </p>
+<table align="center" width="90%">
+  <tr>
+    <td align="center">
+      <strong>Back-end</strong>
+      <br>
+      <sub>PHP • Java • Python • C • C# • Kotlin</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Front-end</strong>
+      <br>
+      <sub>HTML • CSS • JavaScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Banco de Dados & Ferramentas</strong>
+      <br>
+      <sub>MySQL • Docker • Git • GitHub • VS Code</sub>
+    </td>
+  </tr>
+</table>
+
 </details>
 
 <br>
@@ -145,43 +268,7 @@ Tenho interesse em desenvolvimento web, automações, banco de dados, integraç�
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2D0B59,40:58189E,70:7F52FF,100:B197FC" width="100%" />
-</p>
-
-<h2 align="center">✨ Tecnologias & Ferramentas</h2>
-
-<p align="center">
-  Algumas tecnologias que estudo, uso em projetos e fazem parte da minha rotina de desenvolvimento.
-</p>
-
-<details open>
-  <summary><strong>💻 Back-end</strong></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,java,python,c,cs,kotlin&theme=dark" alt="Backend skills"/>
-  </p>
-</details>
-
-<details open>
-  <summary><strong>🎨 Front-end</strong></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend skills"/>
-  </p>
-</details>
-
-<details open>
-  <summary><strong>🗄️ Banco de Dados & Ferramentas</strong></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode&theme=dark" alt="Tools skills"/>
-  </p>
-</details>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2D0B59,40:58189E,70:7F52FF,100:B197FC" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2D0B59,35:58189E,70:7F52FF,100:B197FC" width="100%" />
 </p>
 
 <h2 align="center">🚀 Minha Jornada no GitHub</h2>
@@ -220,28 +307,78 @@ Tenho interesse em desenvolvimento web, automações, banco de dados, integraç�
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2D0B59,40:58189E,70:7F52FF,100:B197FC" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2D0B59,35:58189E,70:7F52FF,100:B197FC" width="100%" />
 </p>
 
 <h2 align="center">🧩 Atualmente estou...</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="260" align="center">
-      <img src="https://img.shields.io/badge/Est%C3%A1gio-Tecnologia-58189E?style=for-the-badge" />
-      <br><br>
-      <sub>Vivenciando a rotina da área e evoluindo com projetos reais.</sub>
-    </td>
-    <td width="260" align="center">
-      <img src="https://img.shields.io/badge/Engenharia%20de%20Software-Cursando-7F52FF?style=for-the-badge" />
-      <br><br>
-      <sub>Aprofundando arquitetura, qualidade, processos e desenvolvimento.</sub>
-    </td>
-    <td width="260" align="center">
-      <img src="https://img.shields.io/badge/ADS-%C3%9Altimo%20Semestre-B197FC?style=for-the-badge" />
-      <br><br>
-      <sub>Finalizando Análise e Desenvolvimento de Sistemas.</sub>
-    </td>
+    <td bgcolor="#130A24" align="center">
+
+<br>
+
+<table align="center" width="95%">
+  <tr>
+    <td bgcolor="#1B0F33" align="center" width="33%" valign="top">
+
+<br>
+
+<img src="https://img.shields.io/badge/Est%C3%A1gio-Tecnologia-58189E?style=for-the-badge" />
+
+<br><br>
+
+<strong>Vivência profissional</strong>
+
+<br><br>
+
+<sub>Atualmente estou estagiando na área, aprendendo com projetos, processos e desafios reais da tecnologia.</sub>
+
+<br><br>
+
+</td>
+
+<td bgcolor="#21113F" align="center" width="33%" valign="top">
+
+<br>
+
+<img src="https://img.shields.io/badge/Engenharia%20de%20Software-Cursando-7F52FF?style=for-the-badge" />
+
+<br><br>
+
+<strong>Graduação em andamento</strong>
+
+<br><br>
+
+<sub>Estou cursando Engenharia de Software para aprofundar meus conhecimentos em desenvolvimento, arquitetura e qualidade.</sub>
+
+<br><br>
+
+</td>
+
+<td bgcolor="#1B0F33" align="center" width="33%" valign="top">
+
+<br>
+
+<img src="https://img.shields.io/badge/ADS-%C3%9Altimo%20Semestre-B197FC?style=for-the-badge" />
+
+<br><br>
+
+<strong>Reta final em ADS</strong>
+
+<br><br>
+
+<sub>Estou no último semestre de Análise e Desenvolvimento de Sistemas, consolidando minha base técnica.</sub>
+
+<br><br>
+
+</td>
+  </tr>
+</table>
+
+<br>
+
+  </td>
   </tr>
 </table>
 
@@ -250,7 +387,13 @@ Tenho interesse em desenvolvimento web, automações, banco de dados, integraç�
 <details>
   <summary><strong>🌙 Mais sobre minha forma de desenvolver</strong></summary>
 
-  <br>
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td bgcolor="#130A24" align="center">
+
+<br>
 
   - Gosto de interfaces bem organizadas, com visual limpo e identidade própria.
   - Tenho interesse por automações que reduzem trabalho manual e melhoram processos.
@@ -258,12 +401,24 @@ Tenho interesse em desenvolvimento web, automações, banco de dados, integraç�
   - Estou sempre buscando evoluir tanto na parte técnica quanto na visão de produto.
   - Gosto de aprender criando, testando e melhorando projetos na prática.
 
+<br>
+
+  </td>
+  </tr>
+</table>
+
 </details>
 
 <details>
   <summary><strong>🔮 Áreas que quero continuar evoluindo</strong></summary>
 
-  <br>
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td bgcolor="#130A24" align="center">
+
+<br>
 
   - Desenvolvimento Full Stack
   - Arquitetura de Software
@@ -272,12 +427,18 @@ Tenho interesse em desenvolvimento web, automações, banco de dados, integraç�
   - UI/UX para aplicações web
   - Automações e sistemas internos
 
+<br>
+
+  </td>
+  </tr>
+</table>
+
 </details>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2D0B59,40:58189E,70:7F52FF,100:B197FC" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2D0B59,35:58189E,70:7F52FF,100:B197FC" width="100%" />
 </p>
 
 <h2 align="center">💬 Vamos conversar?</h2>
