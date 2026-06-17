@@ -86,40 +86,59 @@ Tenho interesse em desenvolvimento web, automações, banco de dados, integraç�
   Um pouco das áreas que fazem parte da minha jornada como desenvolvedora.
 </p>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="190">
-      <img src="https://img.shields.io/badge/Front--end-58189E?style=for-the-badge" />
-      <br>
-      <sub>Interfaces bonitas, claras e funcionais</sub>
-    </td>
-    <td align="center" width="190">
-      <img src="https://img.shields.io/badge/Back--end-2D0B59?style=for-the-badge" />
-      <br>
-      <sub>Regras de negócio, APIs e estrutura</sub>
-    </td>
-    <td align="center" width="190">
-      <img src="https://img.shields.io/badge/Banco%20de%20Dados-7F52FF?style=for-the-badge" />
-      <br>
-      <sub>Modelagem, consultas e organização</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="190">
-      <img src="https://img.shields.io/badge/Automa%C3%A7%C3%B5es-B197FC?style=for-the-badge" />
-      <br>
-      <sub>Fluxos, processos e produtividade</sub>
-    </td>
-    <td align="center" width="190">
-      <img src="https://img.shields.io/badge/UI%2FUX-58189E?style=for-the-badge" />
-      <br>
-      <sub>Experiências mais intuitivas</sub>
-    </td>
-    <td align="center" width="190">
-      <img src="https://img.shields.io/badge/Aprendizado-2D0B59?style=for-the-badge" />
-      <br>
-      <sub>Evolução constante na área tech</sub>
-    </td>
+    <td bgcolor="#130A24" align="center">
+
+<br>
+
+<h2 align="center">✨ Tecnologias & Ferramentas</h2>
+
+<p align="center">
+  Clique nas categorias para ver minha stack organizada por área.
+</p>
+
+<details open>
+  <summary><strong>💻 Back-end</strong></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=php,java,python,c,cs,kotlin&theme=dark" alt="Backend skills"/>
+    <br><br>
+    <sub>PHP • Java • Python • C • C# • Kotlin</sub>
+  </p>
+</details>
+
+<details open>
+  <summary><strong>🎨 Front-end</strong></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend skills"/>
+    <br><br>
+    <sub>HTML • CSS • JavaScript</sub>
+  </p>
+</details>
+
+<details open>
+  <summary><strong>🗄️ Banco de Dados & Ferramentas</strong></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode&theme=dark" alt="Tools skills"/>
+    <br><br>
+    <sub>MySQL • Docker • Git • GitHub • VS Code</sub>
+  </p>
+</details>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Com%20Prop%C3%B3sito-58189E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Style-Purple%20Dev-7F52FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-B197FC?style=for-the-badge" />
+</p>
+
+<br>
+
+  </td>
   </tr>
 </table>
 
