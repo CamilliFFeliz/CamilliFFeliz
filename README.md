@@ -310,77 +310,7 @@ Tenho interesse em desenvolvimento web, automações, banco de dados, integraç�
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2D0B59,35:58189E,70:7F52FF,100:B197FC" width="100%" />
 </p>
 
-<h2 align="center">🧩 Atualmente estou...</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td bgcolor="#130A24" align="center">
-
-<br>
-
-<table align="center" width="95%">
-  <tr>
-    <td bgcolor="#1B0F33" align="center" width="33%" valign="top">
-
-<br>
-
-<img src="https://img.shields.io/badge/Est%C3%A1gio-Tecnologia-58189E?style=for-the-badge" />
-
-<br><br>
-
-<strong>Vivência profissional</strong>
-
-<br><br>
-
-<sub>Atualmente estou estagiando na área, aprendendo com projetos, processos e desafios reais da tecnologia.</sub>
-
-<br><br>
-
-</td>
-
-<td bgcolor="#21113F" align="center" width="33%" valign="top">
-
-<br>
-
-<img src="https://img.shields.io/badge/Engenharia%20de%20Software-Cursando-7F52FF?style=for-the-badge" />
-
-<br><br>
-
-<strong>Graduação em andamento</strong>
-
-<br><br>
-
-<sub>Estou cursando Engenharia de Software para aprofundar meus conhecimentos em desenvolvimento, arquitetura e qualidade.</sub>
-
-<br><br>
-
-</td>
-
-<td bgcolor="#1B0F33" align="center" width="33%" valign="top">
-
-<br>
-
-<img src="https://img.shields.io/badge/ADS-%C3%9Altimo%20Semestre-B197FC?style=for-the-badge" />
-
-<br><br>
-
-<strong>Reta final em ADS</strong>
-
-<br><br>
-
-<sub>Estou no último semestre de Análise e Desenvolvimento de Sistemas, consolidando minha base técnica.</sub>
-
-<br><br>
-
-</td>
-  </tr>
-</table>
-
-<br>
-
-  </td>
-  </tr>
-</table>
+<h2 align="center">🧩 Atualmente estou...</h2> <p align="center"> Minha fase atual na tecnologia, estudos e evolução profissional. </p> <table align="center" width="100%"> <tr> <td bgcolor="#130A24" align="center"> <br> <table align="center" width="92%"> <tr> <td bgcolor="#1B0F33" align="center"> <br> <h3>🚀 Estagiando na área de tecnologia</h3> <img src="https://img.shields.io/badge/Status-Est%C3%A1gio%20em%20Tecnologia-58189E?style=for-the-badge" /> <br><br> <p align="center"> Atualmente estou vivenciando a rotina da área tech, aprendendo com projetos reais, processos internos, desenvolvimento de soluções e desafios práticos do dia a dia. </p> <br> </td> </tr> </table> <br> <table align="center" width="92%"> <tr> <td bgcolor="#21113F" align="center"> <br> <h3>📚 Cursando Engenharia de Software</h3> <img src="https://img.shields.io/badge/Gradua%C3%A7%C3%A3o-Engenharia%20de%20Software-7F52FF?style=for-the-badge" /> <br><br> <p align="center"> Estou aprofundando meus conhecimentos em desenvolvimento de sistemas, arquitetura de software, qualidade, processos, lógica e construção de aplicações completas. </p> <br> </td> </tr> </table> <br> <table align="center" width="92%"> <tr> <td bgcolor="#1B0F33" align="center"> <br> <h3>🎓 Último semestre de ADS</h3> <img src="https://img.shields.io/badge/ADS-%C3%9Altimo%20Semestre-B197FC?style=for-the-badge" /> <br><br> <p align="center"> Também estou na reta final de Análise e Desenvolvimento de Sistemas, consolidando minha base técnica em programação, banco de dados, web e engenharia de sistemas. </p> <br> </td> </tr> </table> <br> <p align="center"> <img src="https://img.shields.io/badge/Aprendendo%20na%20pr%C3%A1tica-58189E?style=flat-square" /> <img src="https://img.shields.io/badge/Evoluindo%20como%20dev-7F52FF?style=flat-square" /> <img src="https://img.shields.io/badge/Construindo%20minha%20jornada-B197FC?style=flat-square" /> </p> <br> </td> </tr> </table>
 
 <br>
 
