@@ -1,149 +1,199 @@
 <p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:58189E,100:B197FC&text=Camilli%20Frigeri&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Web%20Applications%20%E2%80%A2%20Automation%20%E2%80%A2%20UI%2FUX&descAlignY=58&descSize=16"
+    width="100%"
+    alt="Banner roxo Camilli Frigeri"
+  />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B197FC&center=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Camilli!+%E2%9C%A8;Desenvolvedora+Full+Stack+%F0%9F%92%BB;Criando+solu%C3%A7%C3%B5es+com+c%C3%B3digo%2C+design+e+prop%C3%B3sito;Bem-vindo(a)+ao+meu+cantinho!" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=B197FC&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+a+Camilli+%E2%9C%A8;Desenvolvedora+Full+Stack+%F0%9F%92%BB;Transformo+ideias+em+aplica%C3%A7%C3%B5es+funcionais;Gosto+de+c%C3%B3digo+limpo%2C+visual+bonito+e+solu%C3%A7%C3%B5es+reais"
       alt="Typing SVG"
     />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines/purple.gif" width="100%">
+  <a href="https://github.com/CamilliFFeliz">
+    <img src="https://img.shields.io/badge/GitHub-CamilliFFeliz-58189E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/camilli-f-0603611a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Camilli%20Frigeri-7F52FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:camillifrigeri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contato-B197FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
-<table width="100%">
+<br>
+
+<table>
   <tr>
-    <td width="62%" valign="top">
-      <h3>💜 Sobre mim</h3>
+    <td width="58%" valign="top">
 
-      <p>
-        Sou uma <strong>Desenvolvedora Full Stack</strong> apaixonada por construir aplicações completas, unindo back-end, front-end, banco de dados e uma boa experiência para o usuário.
-      </p>
+<h2>💜 Sobre mim</h2>
 
-      <p>
-        Gosto de transformar ideias em sistemas funcionais, organizados e visualmente agradáveis. Tenho interesse especial por aplicações web, automações, interfaces intuitivas e soluções que facilitem processos do dia a dia.
-      </p>
+Sou uma <strong>Desenvolvedora Full Stack</strong> apaixonada por criar aplicações completas, bem estruturadas e visualmente agradáveis.
 
-      <p>
-        Estou sempre aprendendo, testando novas tecnologias e buscando evoluir como desenvolvedora. Para mim, código bom é aquele que resolve problemas reais com clareza, estrutura e propósito.
-      </p>
+Gosto de trabalhar unindo <strong>lógica, organização, interface e experiência do usuário</strong>. Para mim, um bom sistema não é apenas aquele que funciona, mas aquele que é claro, intuitivo e resolve problemas reais.
+
+Atualmente, venho explorando desenvolvimento web, automações, integrações, banco de dados e interfaces com identidade própria.
+
+<br>
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack-58189E?style=flat-square" />
+<img src="https://img.shields.io/badge/Code-Com%20Prop%C3%B3sito-7F52FF?style=flat-square" />
+<img src="https://img.shields.io/badge/UI-Detalhes%20Importam-B197FC?style=flat-square" />
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img 
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdjMGk0anlkcHZscjh4M214b3p4OGxya2MydHowbjZpdndscnRiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif"
+  width="300px"
+  alt="Pixel art programando"
+/>
+
+</td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58189E,50:B197FC,100:7F52FF" width="100%" />
+</p>
+
+<h2 align="center">✨ Tecnologias & Ferramentas</h2>
+
+<p align="center">
+  Tecnologias que uso para construir aplicações, interfaces, automações e soluções completas.
+</p>
+
+<h3 align="center">Back-end</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,java,python,c,cs,kotlin&theme=dark" alt="Backend skills"/>
+</p>
+
+<h3 align="center">Front-end</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend skills"/>
+</p>
+
+<h3 align="center">Banco de Dados, Versionamento & Ferramentas</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode&theme=dark" alt="Tools skills"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58189E,50:B197FC,100:7F52FF" width="100%" />
+</p>
+
+<h2 align="center">🚀 Minha Jornada no GitHub</h2>
+
+<p align="center">
+  Um resumo visual da minha atividade, evolução e das linguagens mais presentes nos meus repositórios.
+</p>
+
+<p align="center">
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=CamilliFFeliz&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=B197FC&text_color=FFFFFF&icon_color=B197FC&border_color=7F52FF&hide_border=false&border_radius=12&rank_icon=github"
+    alt="GitHub Stats"
+  />
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilliFFeliz&layout=compact&langs_count=7&hide=hack&bg_color=0D1117&title_color=B197FC&text_color=FFFFFF&border_color=7F52FF&hide_border=false&border_radius=12"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=CamilliFFeliz&theme=midnight-purple&hide_border=false&border_radius=12&background=0D1117&border=7F52FF&stroke=B197FC&ring=B197FC&fire=7F52FF&currStreakLabel=B197FC"
+    alt="GitHub Streak"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58189E,50:B197FC,100:7F52FF" width="100%" />
+</p>
+
+<h2 align="center">🌙 Meu universo dev</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Web%20Apps-58189E?style=for-the-badge" />
+      <br>
+      <sub>Aplicações completas</sub>
     </td>
-
-    <td width="38%" align="center">
-      <img 
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdjMGk0anlkcHZscjh4M214b3p4OGxya2MydHowbjZpdndscnRiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif" 
-        alt="Pixel art de uma pessoa programando em um quarto roxo" 
-        width="280px"
-      />
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/UI%2FUX-7F52FF?style=for-the-badge" />
+      <br>
+      <sub>Interfaces intuitivas</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Automa%C3%A7%C3%B5es-B197FC?style=for-the-badge" />
+      <br>
+      <sub>Processos inteligentes</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Banco%20de%20Dados-512BD4?style=for-the-badge" />
+      <br>
+      <sub>Modelagem e consultas</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/C%C3%B3digo%20Limpo-58189E?style=for-the-badge" />
+      <br>
+      <sub>Organização e manutenção</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Aprendizado-7F52FF?style=for-the-badge" />
+      <br>
+      <sub>Evolução constante</sub>
     </td>
   </tr>
 </table>
 
+<br>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines/purple.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58189E,50:B197FC,100:7F52FF" width="100%" />
 </p>
 
-<h3 align="center">✨ Tecnologias que eu amo usar</h3>
+<h2 align="center">💬 Vamos conversar?</h2>
 
 <p align="center">
-  Como desenvolvedora Full Stack, gosto de trabalhar em diferentes camadas da aplicação:
-  <br>
-  da estrutura do back-end até a experiência visual do front-end.
-</p>
-
-<p align="center">
-  <strong>Backend</strong>
-  <br><br>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/C-58189E?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-58189E?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-512BD4?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  Estou sempre aberta a trocar ideias sobre tecnologia, desenvolvimento, projetos e novas oportunidades.
 </p>
 
 <p align="center">
-  <strong>Frontend</strong>
-  <br><br>
-  <img src="https://img.shields.io/badge/JavaScript-58189E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-512BD4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-58189E?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-<p align="center">
-  <strong>Banco de Dados & Ferramentas</strong>
-  <br><br>
-  <img src="https://img.shields.io/badge/MySQL-58189E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Docker-512BD4?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-58189E?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-2D1B69?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines/purple.gif" width="100%">
-</p>
-
-<h3 align="center">🚀 Minha Jornada no GitHub</h3>
-
-<p align="center">
-  Aqui estão alguns dados sobre minha atividade e tecnologias mais presentes nos meus repositórios.
-</p>
-
-<p align="center">
-  <a href="https://github.com/CamilliFFeliz">
-    <img 
-      height="170em" 
-      src="https://github-readme-stats.vercel.app/api?username=CamilliFFeliz&show_icons=true&bg_color=0D1117&title_color=B197FC&icon_color=B197FC&text_color=FFFFFF&border_color=B197FC&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"
-      alt="Estatísticas do GitHub de CamilliFFeliz"
-    />
-    <img 
-      height="170em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilliFFeliz&layout=compact&langs_count=8&hide=hack&bg_color=0D1117&title_color=B197FC&text_color=FFFFFF&border_color=B197FC&hide_border=false"
-      alt="Linguagens mais usadas por CamilliFFeliz"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines/purple.gif" width="100%">
-</p>
-
-<h3 align="center">🌙 Um pouco do meu universo dev</h3>
-
-<p align="center">
-  💻 Desenvolvimento Web &nbsp;•&nbsp;
-  🎨 Interfaces intuitivas &nbsp;•&nbsp;
-  🗄️ Banco de dados &nbsp;•&nbsp;
-  ⚙️ Automações &nbsp;•&nbsp;
-  🚀 Aprendizado constante
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-com%20prop%C3%B3sito-58189E?style=flat-square" alt="Code com propósito"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-7F52FF?style=flat-square" alt="Full Stack"/>
-  <img src="https://img.shields.io/badge/Style-Roxo%20Dev-B197FC?style=flat-square" alt="Roxo Dev"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/B-L-A-C-K-H-A-T/B-L-A-C-K-H-A-T/main/resources/lines/purple.gif" width="100%">
-</p>
-
-<h3 align="center">💬 Vamos conversar?</h3>
-
-<p align="center">
-  Adoraria me conectar com você!
-  <br><br>
   <a href="https://www.linkedin.com/in/camilli-f-0603611a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-58189E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:camillifrigeri@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-512BD4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-7F52FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
+<br>
+
 <p align="center">
-  <br>
-  <strong>Obrigada por visitar meu perfil!</strong>
-  <br>
-  <sub>Feito com 💜 por Camilli</sub>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:B197FC,50:58189E,100:0D1117"
+    width="100%"
+    alt="Footer roxo"
+  />
 </p>
